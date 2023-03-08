@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Faults>
+   <Fault>
+      <severity>warning</severity>
+      <loc>/ns:composite/ns:component[@name='Humantask12/TaskService']</loc>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\mywork\TestHumanTask\TestNoOutCome\SOA\composite.xml</file>
+      <name>C:\JDeveloper\mywork\TestHumanTask\TestNoOutCome\SOA\composite.xml</name>
+      <fix/>
+      <msg>The service "TaskService" exposed by component "Humantask12" is not wired to/used by any other component.</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line>5</line>
+      <col>25</col>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>schema -  (Error) Element not completed: 'title'</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line>10</line>
+      <col>32</col>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>schema -  (Error) Element not completed: 'stage'</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>Task title not specified</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>Task owner not specified</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>Error assignee not specified</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/Humantask12.task</file>
+      <name>HumanTasks/Humantask12.task</name>
+      <fix/>
+      <msg>Payload not specified</msg>
+   </Fault>
+</Faults>

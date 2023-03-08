@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Application xmlns="http://xmlns.oracle.com/adfm/application" version="12.2.1.22.48" id="DataBindings"
+             SeparateXMLFiles="false" Package="hutorderform" ClientType="Generic">
+  <pageMap>
+    <page path="/Humantask12_TaskDetails.jspx" usageId="hutorderform_Humantask12_TaskDetailsPageDef"/>
+    <page path="/Humantask12_TaskNotification.jspx" usageId="hutorderform_Humantask12_TaskNotificationPageDef"/>
+  </pageMap>
+  <pageDefinitionUsages>
+    <page id="hutorderform_Humantask12_TaskDetailsPageDef" path="hutorderform.pageDefs.Humantask12_TaskDetailsPageDef"/>
+    <page id="hutorderform_Humantask12_TaskNotificationPageDef"
+          path="hutorderform.pageDefs.Humantask12_TaskNotificationPageDef"/>
+  </pageDefinitionUsages>
+  <dataControlUsages>
+    <dc id="hutorderform_Humantask12" path="hutorderform.hutorderform_Humantask12"/>
+  </dataControlUsages>
+</Application>
